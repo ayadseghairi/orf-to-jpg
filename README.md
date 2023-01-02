@@ -1,8 +1,17 @@
 # orf-to-jpg
-pip install rawpy
 
+# Run the program in Python IDE
 
-pip install imageio
+`git clone https://github.com/ayadseghairi/orf-to-jpg.git`
+
+`cd orf-to-jpg.git`
+
+`pip install rawpy`
+
+`pip install imageio`
+
+`python3 main.py`
 
 # to download the exe program
-https://mega.nz/file/xN40gAiY#7itk1v4tcPG5rDTq9p5rx40NldI3L6EWfIbBAeIEOIM
+
+[https://github.com/ayadseghairi/orf-to-jpg/releases/download/v0.1.0/orf.to.jpg.exe](orf.to.jpg.exe)
