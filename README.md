@@ -14,4 +14,4 @@
 
 # to download the exe program
 
-[https://github.com/ayadseghairi/orf-to-jpg/releases/download/v0.1.0/orf.to.jpg.exe](orf.to.jpg.exe)
+[orf.to.jpg.exe](https://github.com/ayadseghairi/orf-to-jpg/releases/download/v0.1.0/orf.to.jpg.exe)
